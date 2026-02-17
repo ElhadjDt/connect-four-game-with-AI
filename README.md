@@ -35,6 +35,7 @@ g++ main.cpp -o connect4.exe
 ```
 
 3. **Run the Game**
+   
 Linux / macOS
 ```bash
 ./connect4
