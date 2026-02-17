@@ -31,16 +31,16 @@ g++ main.cpp -o connect4
 ```
 On Windows (MinGW)
 ```bash
-g++ main.cpp -o connect4
+g++ main.cpp -o connect4.exe
 ```
 
 3. **Run the Game**
 Linux / macOS
 ```bash
-g++ main.cpp -o connect4
+./connect4
 ```
 
 Windows
 ```bash
-g++ main.cpp -o connect4
+connect4.exe
 ```
