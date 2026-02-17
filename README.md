@@ -21,6 +21,7 @@ cd connect-four-game-with-AI
 ```
 
 2. **Compile the Program**
+
 This project is written in standard C++ and does not require any external libraries.
 You can compile it using g++ or any C++11+ compatible compiler.
 
